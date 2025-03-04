@@ -1,4 +1,4 @@
-CTYPE html>
+<!DOCTYPE html>
 <!-- ICS2O-Unit1-08-HTML-MDL -->
 <html lang="en-ca">
   <head>
